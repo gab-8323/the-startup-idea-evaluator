@@ -74,6 +74,12 @@ For manual builds, follow Expo documentation for building APKs or IPAs.
 2. Submit to Google Play Store or Apple App Store
 3. For web deployment, use `expo export` and deploy to a static hosting service
 
+## APK Download
+
+You can download the latest APK file for Android from the following link:
+
+[Download APK](https://expo.dev/artifacts/eas/9RRe2sn8eoGzthQZSS3XGm.apk)
+
 ## Technologies Used
 
 - React Native
